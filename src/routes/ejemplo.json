@@ -1,0 +1,16 @@
+[
+    {
+        "id":"1",
+        "titulo":"Alien",
+        "director":"James Cameron",
+        "year":"1986",
+        "rating":"8.6"
+    },
+    {
+        "id":"2",
+        "titulo":"Kufu panda",
+        "director":"Cristopher Nolan",
+        "year":"2006",
+        "rating":"10" 
+    }
+]
