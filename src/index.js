@@ -17,7 +17,7 @@ app.use(express.json());
 //app.length('/',(req, res) =>{
     //res.json({"titulo": "Hola Mundo"});});
 app.use(require('./routes/index'));
-app.use('/api/movies',require('./routes/Movies'));
+app.use('/api/movies',require('./routes/movies'));
 app.use('/api/users',require('./routes/users'));
 //starting the server
 app.listen(app.length('port'),() => {
